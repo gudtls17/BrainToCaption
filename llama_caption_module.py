@@ -627,7 +627,6 @@ def train_caption_generator(
         if avg_val_loss < best_val_loss:
             best_val_loss = avg_val_loss
             
-            # ====================== 시간 오래 걸려서 잠시 주석 달음 ======================
             # torch.save({
             #     'epoch': epoch,
             #     'model_state_dict': model.state_dict(),
