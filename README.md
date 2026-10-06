@@ -2,7 +2,7 @@
 
 Official page of "Image-mediated fMRI-to-caption generation with visual pathway tokens and hyperbolic alignment" (MICCAI 2026)
 
-
+[Paper](https://papers.miccai.org/miccai-2026/0489-Paper2335.html)
 
 ![Overall](Images/Model.png)
 
